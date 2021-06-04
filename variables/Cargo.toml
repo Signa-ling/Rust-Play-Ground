@@ -1,5 +1,5 @@
 [package]
-name = "samplecli"
+name = "variables"
 version = "0.1.0"
 authors = ["SPICA <toro970919@gmail.com>"]
 edition = "2018"
